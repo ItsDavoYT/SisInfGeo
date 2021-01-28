@@ -1,0 +1,13 @@
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.exe
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.deps.json
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.runtimeconfig.json
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.runtimeconfig.dev.json
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.dll
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\bin\Debug\netcoreapp3.1\p01holaMundo.pdb
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.csprojAssemblyReference.cache
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.AssemblyInfoInputs.cache
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.AssemblyInfo.cs
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.csproj.CoreCompileInputs.cache
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.dll
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.pdb
+H:\Escuela\Cursos\Dev Apps\p01holaMundo\obj\Debug\netcoreapp3.1\p01holaMundo.genruntimeconfig.cache

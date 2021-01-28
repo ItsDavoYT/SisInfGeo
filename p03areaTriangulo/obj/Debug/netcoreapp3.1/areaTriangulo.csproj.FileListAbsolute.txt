@@ -1,0 +1,13 @@
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.exe
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.deps.json
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.runtimeconfig.json
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.runtimeconfig.dev.json
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.dll
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.pdb
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.csprojAssemblyReference.cache
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.AssemblyInfoInputs.cache
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.AssemblyInfo.cs
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.csproj.CoreCompileInputs.cache
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.dll
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.pdb
+H:\Escuela\Cursos\Dev Apps\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.genruntimeconfig.cache

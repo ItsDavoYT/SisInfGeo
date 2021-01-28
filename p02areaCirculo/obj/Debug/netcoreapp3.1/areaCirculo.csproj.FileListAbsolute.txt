@@ -1,0 +1,13 @@
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.exe
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.deps.json
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.json
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.dev.json
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.dll
+H:\Escuela\Cursos\Dev Apps\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.pdb
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.csprojAssemblyReference.cache
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfoInputs.cache
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfo.cs
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.csproj.CoreCompileInputs.cache
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.dll
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.pdb
+H:\Escuela\Cursos\Dev Apps\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.genruntimeconfig.cache
