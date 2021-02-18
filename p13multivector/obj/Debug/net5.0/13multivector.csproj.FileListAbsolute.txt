@@ -1,0 +1,16 @@
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.exe
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.deps.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.runtimeconfig.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.runtimeconfig.dev.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\ref\13multivector.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\bin\Debug\net5.0\13multivector.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.csprojAssemblyReference.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.AssemblyInfoInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.AssemblyInfo.cs
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.csproj.CoreCompileInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\ref\13multivector.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\13multivector\obj\Debug\net5.0\13multivector.genruntimeconfig.cache

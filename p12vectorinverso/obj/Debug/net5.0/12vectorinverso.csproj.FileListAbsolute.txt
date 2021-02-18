@@ -1,0 +1,16 @@
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.exe
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.deps.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.runtimeconfig.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.runtimeconfig.dev.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\ref\12vectorinverso.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\bin\Debug\net5.0\12vectorinverso.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.csprojAssemblyReference.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.AssemblyInfoInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.AssemblyInfo.cs
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.csproj.CoreCompileInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\ref\12vectorinverso.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\12vectorinverso\obj\Debug\net5.0\12vectorinverso.genruntimeconfig.cache
