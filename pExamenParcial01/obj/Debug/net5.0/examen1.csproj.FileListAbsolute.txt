@@ -1,0 +1,16 @@
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.exe
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.deps.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.runtimeconfig.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.runtimeconfig.dev.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\ref\examen1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\bin\Debug\net5.0\examen1.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.csprojAssemblyReference.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.AssemblyInfoInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.AssemblyInfo.cs
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.csproj.CoreCompileInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\ref\examen1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen1\obj\Debug\net5.0\examen1.genruntimeconfig.cache
