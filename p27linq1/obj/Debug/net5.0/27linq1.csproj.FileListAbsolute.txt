@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\ref\27linq1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\bin\Debug\net5.0\27linq1.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\ref\27linq1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\27linq1\obj\Debug\net5.0\27linq1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\ref\21interfaz3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\bin\Debug\net5.0\21interfaz3.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\ref\21interfaz3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\21interfaz3\obj\Debug\net5.0\21interfaz3.genruntimeconfig.cache

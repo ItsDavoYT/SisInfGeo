@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\ref\39threads4.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\bin\Debug\net5.0\39threads4.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\ref\39threads4.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\39threads4\obj\Debug\net5.0\39threads4.genruntimeconfig.cache

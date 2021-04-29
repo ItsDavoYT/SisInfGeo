@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\ref\32streams2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\bin\Debug\net5.0\32streams2.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\ref\32streams2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\32streams2\obj\Debug\net5.0\32streams2.genruntimeconfig.cache

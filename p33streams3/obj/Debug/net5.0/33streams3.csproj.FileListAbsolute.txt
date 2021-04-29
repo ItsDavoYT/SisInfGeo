@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\ref\33streams3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\bin\Debug\net5.0\33streams3.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\ref\33streams3.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\33streams3\obj\Debug\net5.0\33streams3.genruntimeconfig.cache

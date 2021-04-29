@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\ref\30archivos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\bin\Debug\net5.0\30archivos.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\ref\30archivos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\30archivos\obj\Debug\net5.0\30archivos.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\26delegados5\obj\Debug\net5.0\26delegados5.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\26delegados5\obj\Debug\net5.0\26delegados5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\26delegados5\obj\Debug\net5.0\26delegados5.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\26delegados5\obj\Debug\net5.0\26delegados5.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\26delegados5\obj\Debug\net5.0\26delegados5.csproj.CoreCompileInputs.cache

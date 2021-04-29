@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\ref\37threads2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\bin\Debug\net5.0\37threads2.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\ref\37threads2.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\37threads2\obj\Debug\net5.0\37threads2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\28linq2\obj\Debug\net5.0\28linq2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\28linq2\obj\Debug\net5.0\28linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\28linq2\obj\Debug\net5.0\28linq2.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\28linq2\obj\Debug\net5.0\28linq2.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\28linq2\obj\Debug\net5.0\28linq2.csproj.CoreCompileInputs.cache
