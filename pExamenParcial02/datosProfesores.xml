@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfProfesor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profesor>
+    <nombre>Jose Diaz</nombre>
+    <grupo>1A</grupo>
+    <materia>Fisica</materia>
+    <fechaing>2018-01-01T00:00:00</fechaing>
+    <salario>1200</salario>
+    <listaAlumnos>
+      <Alumno>
+        <nombre>Fatima Soto</nombre>
+        <edad>23</edad>
+        <fechaing>2019-01-01T00:00:00</fechaing>
+        <becado>Si</becado>
+        <calificaciones>7,7,7</calificaciones>
+        <numProfesor>1</numProfesor>
+      </Alumno>
+      <Alumno>
+        <nombre>Damian Diaz</nombre>
+        <edad>25</edad>
+        <fechaing>2016-01-01T00:00:00</fechaing>
+        <becado>No</becado>
+        <calificaciones>8,8,8</calificaciones>
+        <numProfesor>1</numProfesor>
+      </Alumno>
+      <Alumno>
+        <nombre>Fatima Soto</nombre>
+        <edad>23</edad>
+        <fechaing>2018-01-01T00:00:00</fechaing>
+        <becado>Si</becado>
+        <calificaciones>6,6,6</calificaciones>
+        <numProfesor>1</numProfesor>
+      </Alumno>
+    </listaAlumnos>
+    <mayorPromedio>8</mayorPromedio>
+    <menorPromedio>6</menorPromedio>
+    <totalBecados>2</totalBecados>
+  </Profesor>
+  <Profesor>
+    <nombre>Maria Perez</nombre>
+    <grupo>2A</grupo>
+    <materia>Algebra</materia>
+    <fechaing>2016-02-10T00:00:00</fechaing>
+    <salario>3400</salario>
+    <listaAlumnos>
+      <Alumno>
+        <nombre>Maria Ochoa</nombre>
+        <edad>20</edad>
+        <fechaing>2018-10-01T00:00:00</fechaing>
+        <becado>Si</becado>
+        <calificaciones>9,9,9</calificaciones>
+        <numProfesor>2</numProfesor>
+      </Alumno>
+      <Alumno>
+        <nombre>Carlos Diaz</nombre>
+        <edad>23</edad>
+        <fechaing>2018-10-01T00:00:00</fechaing>
+        <becado>No</becado>
+        <calificaciones>8,8,8</calificaciones>
+        <numProfesor>2</numProfesor>
+      </Alumno>
+    </listaAlumnos>
+    <mayorPromedio>9</mayorPromedio>
+    <menorPromedio>8</menorPromedio>
+    <totalBecados>1</totalBecados>
+  </Profesor>
+  <Profesor>
+    <nombre>Claudia Sid</nombre>
+    <grupo>4B</grupo>
+    <materia>Calculo</materia>
+    <fechaing>2019-04-01T00:00:00</fechaing>
+    <salario>3800</salario>
+    <listaAlumnos />
+    <mayorPromedio>0</mayorPromedio>
+    <menorPromedio>0</menorPromedio>
+    <totalBecados>0</totalBecados>
+  </Profesor>
+  <Profesor>
+    <nombre>Carlos Lopez</nombre>
+    <grupo>8A</grupo>
+    <materia>Quimica</materia>
+    <fechaing>2016-03-10T00:00:00</fechaing>
+    <salario>1000</salario>
+    <listaAlumnos>
+      <Alumno>
+        <nombre>Jose Ochoa</nombre>
+        <edad>19</edad>
+        <fechaing>2016-10-01T00:00:00</fechaing>
+        <becado>No</becado>
+        <calificaciones>6,6,6</calificaciones>
+        <numProfesor>4</numProfesor>
+      </Alumno>
+    </listaAlumnos>
+    <mayorPromedio>6</mayorPromedio>
+    <menorPromedio>6</menorPromedio>
+    <totalBecados>0</totalBecados>
+  </Profesor>
+</ArrayOfProfesor>

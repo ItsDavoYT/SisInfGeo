@@ -1,0 +1,72 @@
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.csprojAssemblyReference.cache
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfoInputs.cache
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfo.cs
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CoreCompileInputs.cache
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.exe
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.deps.json
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.json
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.dev.json
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.dll
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\ref\Escuela1.dll
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Escuela1.pdb
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.dll
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\ref\Escuela1.dll
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.pdb
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.genruntimeconfig.cache
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cris_\OneDrive\Escritorio\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CopyComplete
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.exe
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.deps.json
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.json
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.dev.json
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.dll
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\ref\Escuela1.dll
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Escuela1.pdb
+C:\Users\Andrea\Downloads\Escuela1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.csprojAssemblyReference.cache
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfoInputs.cache
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfo.cs
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CopyComplete
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.dll
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\ref\Escuela1.dll
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.pdb
+C:\Users\Andrea\Downloads\Escuela1\obj\Debug\net5.0\Escuela1.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\ref\Escuela1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Escuela1.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.csproj.CopyComplete
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\ref\Escuela1.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\Parcial2\Escuela1\obj\Debug\net5.0\Escuela1.genruntimeconfig.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.exe
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.deps.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.runtimeconfig.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.runtimeconfig.dev.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\ref\Escuela1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Escuela1.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.csprojAssemblyReference.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.AssemblyInfoInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.AssemblyInfo.cs
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.csproj.CoreCompileInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.csproj.CopyComplete
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\ref\Escuela1.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\examen2\obj\Debug\net5.0\Escuela1.genruntimeconfig.cache

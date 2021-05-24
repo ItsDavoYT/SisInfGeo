@@ -1,0 +1,241 @@
+using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System.Collections.Generic;
+using System.Linq;
+using static System.Console;
+using System.Threading;
+
+namespace pExamenParcial3
+{
+    class Program
+    {
+
+        static DataContext db = new DataContext();
+
+        static void Main(string[] args){
+
+                Scraping();
+
+            
+
+        }
+
+
+        static void Scraping(){
+           
+
+            ChromeOptions opciones = new ChromeOptions();
+            opciones.AddArgument("--headless");
+            IWebDriver driver = new ChromeDriver(opciones);
+            driver.Url = "https://www.mercadolibre.com.mx/";
+            
+            var ligascat = driver.FindElements(By.XPath("/html/body/header/div/div[2]/ul/li/a"));
+
+            List<Categorias> categorias = new List<Categorias>();
+            
+            //WriteLine("----------");
+            //Empiezo por un for en vez de un foreach por que la primera y segunda url no era parte de las categorias
+            //y tambien quito las ultimas 2
+            for(int i = 2;i<ligascat.Count-2;i++){
+                //WriteLine(ligascat[i].GetAttribute("href"));
+                Categorias categoria = new Categorias();
+                var Url = ligascat[i].GetAttribute("href");
+                var diagonal = Url.LastIndexOf("/")+1;
+                var gato = Url.LastIndexOf("#")-diagonal;
+                var subsUrl= Url.Substring(diagonal,gato);
+                categoria.CategoriasID=i;
+                categoria.Nombre=subsUrl;
+                categoria.Url= Url;
+                categorias.Add(categoria);
+                //WriteLine(categoria.ToString());
+            }
+
+            //se hace scraping de los productos en oferta
+
+            List<string> urlsOfertas = new List<string>();
+            List<Producto> productos = new List<Producto>();
+
+            for(int i = 1; i<= 3 ; i++){ urlsOfertas.Add($"https://www.mercadolibre.com.mx/ofertas?promotion_type=LIGHTNING_DEAL&page={i}");}
+
+            foreach(var urlsO in urlsOfertas){
+                driver.Navigate().GoToUrl(urlsO);
+                List<String>urlProducto = new List<string>();
+                var ligasProducto = driver.FindElements(By.XPath("/html/body/main/div/section[2]/div/div[2]/div/ol/li/a"));
+                foreach(var l in ligasProducto) urlProducto.Add(l.GetAttribute("href"));
+                foreach(var url in urlProducto){
+                    driver.Navigate().GoToUrl(url);
+                    Producto producto = new Producto();
+                    //WriteLine(url);
+                    
+                    producto.Url = url;
+                    //Thread.Sleep(2000);
+
+                    driver.FindElement(By.XPath("/html/body")).SendKeys(Keys.Escape);
+                    Thread.Sleep(1000);
+                    producto.UrlImagen = driver.FindElement(By.ClassName("ui-pdp-image")).GetAttribute("src");
+                    producto.Titulo = driver.FindElement(By.ClassName("ui-pdp-title")).Text;
+                    producto.PrecioBase = driver.FindElement(By.ClassName("price-tag-fraction")).Text;
+                    producto.PrecioDescuento = driver.FindElement(By.ClassName("price-tag-fraction")).Text;
+                    
+                    producto.CategoriasID= 1;
+                    
+                    /*
+                    var ListaCategorias= driver.FindElements(By.ClassName("andes-breadcrumb__link"));
+                    char[] delimitador = {'/'};
+                    string urlCategoriaInterna = ListaCategorias[1].GetAttribute("href");
+                    string[] trozos = urlCategoriaInterna.Split(delimitador);
+                    producto.CategoriaInterna = trozos[trozos.Length-2];
+                    */
+                    
+                    WriteLine(producto.ToString());
+
+                    productos.Add(producto);
+                    
+                    
+                }
+                //opte por los nombres de clases en vez del XPATH ya que la pagina de mercado libre cambia mucho de articulo en articulo
+                
+                //driver.FindElement(By.ClassName("andes-breadcrumb__link")).GetAttribute("href")
+                //WriteLine("--------------------->");
+            }
+
+            //Vaciar la info a la BD
+            WriteLine("----------");
+            db.Database.EnsureCreated();//si no existe la crea
+            foreach(var c in categorias){
+                db.Categorias.Add(c);
+             }
+            db.SaveChanges();
+
+
+        }
+    }
+}
+
+------------------------
+using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System.Collections.Generic;
+using System.Linq;
+using static System.Console;
+using System.Threading;
+
+namespace pExamenParcial3
+{
+    class Program
+    {
+
+        static DataContext db = new DataContext();
+
+        static void Main(string[] args){
+                Scraping();
+        }
+
+
+        static void Scraping(){
+            ChromeOptions opciones = new ChromeOptions();
+            opciones.AddArgument("--headless");
+            IWebDriver driver = new ChromeDriver(opciones);
+            
+            driver.Url = "https://www.mercadolibre.com.mx/";
+            
+            //se hace scraping de los productos en oferta relampago y se llenan las categorias
+
+            List<string> urlsOfertas = new List<string>();
+            List<Categorias> categorias = new List<Categorias>();
+            List<Producto> productos = new List<Producto>();
+            List<string> verificarCat = new List<string>();
+
+            for(int i = 1; i<= 1 ; i++){ urlsOfertas.Add($"https://www.mercadolibre.com.mx/ofertas?promotion_type=LIGHTNING_DEAL&page={i}");}
+
+            foreach(var urlsO in urlsOfertas){
+                driver.Navigate().GoToUrl(urlsO);
+                List<String>urlProducto = new List<string>();
+                var ligasProducto = driver.FindElements(By.XPath("/html/body/main/div/section[2]/div/div[2]/div/ol/li/a"));
+                foreach(var l in ligasProducto) urlProducto.Add(l.GetAttribute("href"));
+                foreach(var url in urlProducto){
+                    driver.Navigate().GoToUrl(url);
+                    Producto producto = new Producto();
+                    
+                    producto.Url = url;
+
+                    driver.FindElement(By.XPath("/html/body")).SendKeys(Keys.Escape);
+                    Thread.Sleep(1000);
+                    producto.UrlImagen = driver.FindElement(By.ClassName("ui-pdp-image")).GetAttribute("src");
+                    producto.Titulo = driver.FindElement(By.ClassName("ui-pdp-title")).Text;
+                    
+                    
+                    var ListaPreciosTemp = driver.FindElements(By.ClassName("price-tag-fraction"));
+                    producto.PrecioBase=ListaPreciosTemp[0].Text;
+                    producto.PrecioDescuento = ListaPreciosTemp[1].Text;
+                    
+                    var ListaCategoriasTemp= driver.FindElements(By.ClassName("andes-breadcrumb__link"));
+                    char[] delimitador = {'/'};
+                    string urlCategoria = ListaCategoriasTemp[1].GetAttribute("href");
+                    string[] trozos = urlCategoria.Split(delimitador);
+                    
+                    Categorias categoria = new Categorias();
+                    
+                    var categoriaTemporal = trozos[trozos.Length-2];
+
+                    if(!verificarCat.Contains(categoriaTemporal)){
+                        verificarCat.Add(categoriaTemporal);
+                        categoria.NombreCategoria = categoriaTemporal;
+                        categoria.Url = urlCategoria;
+                        categorias.Add(categoria);
+                    }
+
+                    producto.NombreCategoria = categoriaTemporal;
+                    //WriteLine(producto.ToString());
+
+                    productos.Add(producto);
+                    
+                    
+                }
+                //opte por los nombres de clases en vez del XPATH ya que la pagina de mercado libre cambia mucho de articulo en articulo
+                
+                //WriteLine("--------------------->");
+            }
+
+            //por el como se llena la tabla de categorias no puedo llenar las categorias de los productos al mismo tiempo 
+            //por lo tanto fuera del ciclo inicial cambiare las categorias a sus categorias correspondientes
+
+            List<Producto> productos2 = new List<Producto>();
+
+            //debugeando
+            int valor = 1;
+            foreach(var x in verificarCat){
+                WriteLine(valor+"-"+x);
+                valor++;
+            } 
+            
+            //debugeando
+            
+            //
+
+            foreach(var prod in productos){
+                if(verificarCat.Contains(prod.NombreCategoria)){
+                
+                    
+                    Producto productoNuevo = prod;
+                    productoNuevo.CategoriasID = verificarCat.IndexOf(prod.NombreCategoria)+1;
+                    productos2.Add(productoNuevo);
+                
+                
+                }
+            }
+            
+            
+            //Vaciar la info a la BD
+            WriteLine("----------");
+            db.Database.EnsureCreated();//si no existe la crea
+            foreach(var c in categorias){ db.Categorias.Add(c);}
+            foreach(var p in productos2){ db.Productos.Add(p);}
+            db.SaveChanges();
+            
+
+        }
+    }
+}

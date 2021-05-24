@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <nombre>Fatima Soto</nombre>
+    <edad>23</edad>
+    <fechaing>2019-01-01T00:00:00</fechaing>
+    <becado>Si</becado>
+    <calificaciones>7,7,7</calificaciones>
+    <numProfesor>1</numProfesor>
+  </Alumno>
+  <Alumno>
+    <nombre>Damian Diaz</nombre>
+    <edad>25</edad>
+    <fechaing>2016-01-01T00:00:00</fechaing>
+    <becado>No</becado>
+    <calificaciones>8,8,8</calificaciones>
+    <numProfesor>1</numProfesor>
+  </Alumno>
+  <Alumno>
+    <nombre>Fatima Soto</nombre>
+    <edad>23</edad>
+    <fechaing>2018-01-01T00:00:00</fechaing>
+    <becado>Si</becado>
+    <calificaciones>6,6,6</calificaciones>
+    <numProfesor>1</numProfesor>
+  </Alumno>
+  <Alumno>
+    <nombre>Maria Ochoa</nombre>
+    <edad>20</edad>
+    <fechaing>2018-10-01T00:00:00</fechaing>
+    <becado>Si</becado>
+    <calificaciones>9,9,9</calificaciones>
+    <numProfesor>2</numProfesor>
+  </Alumno>
+  <Alumno>
+    <nombre>Carlos Diaz</nombre>
+    <edad>23</edad>
+    <fechaing>2018-10-01T00:00:00</fechaing>
+    <becado>No</becado>
+    <calificaciones>8,8,8</calificaciones>
+    <numProfesor>2</numProfesor>
+  </Alumno>
+  <Alumno>
+    <nombre>Jose Ochoa</nombre>
+    <edad>19</edad>
+    <fechaing>2016-10-01T00:00:00</fechaing>
+    <becado>No</becado>
+    <calificaciones>6,6,6</calificaciones>
+    <numProfesor>4</numProfesor>
+  </Alumno>
+</ArrayOfAlumno>
